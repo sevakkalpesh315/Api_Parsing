@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Interacter_MVP_Dagger</string>
+    <string name="title_activity_details">DetailsActivity</string>
+</resources>
